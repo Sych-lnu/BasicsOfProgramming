@@ -1,0 +1,4 @@
+3
+Oleksandr,Sych,man,2002
+Nazar,Protsiv,man,2003
+Anybody,NONE,woman,1111
